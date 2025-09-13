@@ -1,3 +1,5 @@
+Name "PNG-to-ICO"
+
 # define installer name
 OutFile "png_to_ico_setup.exe"
 
